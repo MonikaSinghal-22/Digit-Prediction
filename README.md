@@ -1,4 +1,6 @@
-# DeepLearning
-deep learning
+# Digit Prediction
 
-1.ANN model(digit(0-9) prediction)
+Digit(0-9) prediction
+
+* Mnist Dataset
+* Keras Library
